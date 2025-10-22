@@ -3,6 +3,10 @@ name = "messager"
 version = "0.1.0"
 edition = "2024"
 license = "MIT"
-license-file = "LICENSE"
+description = "Messager"
+readme = "README.md"
+homepage = "https://github.com/Azleal/messager"
+documentation = "https://github.com/Azleal/messager"
+repository = "https://github.com/Azleal/messager"
 
 [dependencies]
